@@ -1,2 +1,15 @@
-# Orders processed successfully.
-# Ready for new entries.
+Please dispense 50 units of Amoxy 500mg for Ward A
+ADD 200 units of Newcastle Vaccine from Global-Pharma
+Issue 15 bottles of Iodine Sol. to Clinic B
+Request: 30 Amoxicillin 500mg for Emergency Room
+ADD 100 units of Iodine Solution to main store
+Need 10 Newcastle Vac for the laboratory
+Dispense 5 units of Amox 500 to Dr. Smith office
+ADD 50 units of Iodine Sol from Medi-Supply
+Transfer 20 units of Newcastle Vaccine to Southern Branch
+Please provide 12 bottles of Iodine for Surgery Room
+ADD 80 Amoxicillin 500mg to replenish safety stock
+Dispense 25 units of Newcaste Vac (Urgent)
+Issue 8 units of Iodine Solution to Outpatient Dept
+Dispense 100 units of Amoxicillin 500mg for National Campaign
+ADD 300 units of Newcastle Vaccine (New Batch #902)
